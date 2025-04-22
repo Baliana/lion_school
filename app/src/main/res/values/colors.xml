@@ -10,4 +10,6 @@
     <color name="dark_yellow">#FFC23D</color>
     <color name="cor_logo">#3347B0</color>
     <color name="Light_gray">#9E9FA4</color>
+    <color name="dark_blue">#3347B0</color>
+    <color name="Light_blue">#CFD4EA</color>
 </resources>

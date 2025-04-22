@@ -83,7 +83,7 @@ fun TelaInicial() {
                     .width(300.dp)
                     .height(40.dp),
                 colors = ButtonDefaults.buttonColors(colorResource(R.color.dark_yellow)),
-                shape =
+
             ) {
                 Text(
                     text = stringResource(R.string.Get_Started),
