@@ -11,4 +11,18 @@
     <string name="Get_Started">Get Started</string>
     <string name="your_course">Find your course</string>
     <string name="find_course">Find a student</string>
+    <string name="courses">Courses</string>
+    <string name="element_card1">DS</string>
+    <string name="element_card2">RDS</string>
+    <string name="element_card3">ELE</string>
+    <string name="name_course1">Desenvolvimento De Sistemas</string>
+    <string name="description_course1">Learn to develop web and mobile applications.</string>
+    <string name="time_course1">3 semesters</string>
+    <string name="name_course2">Redes de Computadores</string>
+    <string name="description_course2">Learn to design communication networks.</string>
+    <string name="time_course2">3 semesters</string>
+    <string name="name_course3">Eletroeletrônica</string>
+    <string name="description_course3">Learn to design communication networks.</string>
+    <string name="element_bola">DS</string>
+
 </resources>
